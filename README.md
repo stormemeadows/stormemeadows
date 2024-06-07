@@ -10,7 +10,7 @@ left: 0;
 object-fit: cover;
 height: 100vh;
 width: 100vw;
-opacity: 0.1;
+opacity: 1;
 background-image: url('https://avatars.githubusercontent.com/u/4563022?v=4');
 background-repeat: no-repeat;
 background-attachment: fixed; 
