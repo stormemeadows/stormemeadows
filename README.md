@@ -20,7 +20,7 @@ background-repeat: no-repeat;
 background-image: url('https://avatars.githubusercontent.com/u/4563022?v=4');
 background-size: 55%;
 */
-opacity: 0.5;
+opacity: 0.2;
 background-repeat: repeat;
 background-image: url('https://avatars.githubusercontent.com/u/4563022?v=4');
 background-size: 1%;
