@@ -16,6 +16,6 @@ background-repeat: no-repeat;
 background-attachment: fixed; 
 background-size: 55%;
 background-position: center center;
-background-color: white;
+background-color: black;
 ]{x0000}$}
 ```
