@@ -14,7 +14,7 @@ opacity: 0.2;
 background-image: url('https://avatars.githubusercontent.com/u/4563022?v=4');
 background-repeat: no-repeat;
 background-attachment: fixed; 
-background-size: 55%;
+background-size: contain;
 background-position: center center;
 ]{x0000}$}
 ```
